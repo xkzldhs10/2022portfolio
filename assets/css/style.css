@@ -218,6 +218,50 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
+
+/* Add this CSS for the hobby boxes */
+.hobby-box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.hobby-box img {
+  width: 400px; /* Adjust size as needed */
+  height: auto;
+  margin-right: 20px;
+}
+
+.hobby-info {
+  flex: 1;
+}
+
+.hobby-info h3 {
+  font-size: 20px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.hobby-info p {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /**
 * Mobile Navigation 
 */
